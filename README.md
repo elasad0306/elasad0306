@@ -1,9 +1,9 @@
 ## Hi there 👋
-<h1 align="center">Salut, moi c'est [Ton Prénom] 👋</h1>
+<h1 align="center">Salut, moi c'est El Asad YOUSSOUF 😊</h1>
 
 <p align="center">
   <em>Étudiant en 2ème année de Bachelor Informatique</em><br>
-  Passionné par le développement web et la data 🚀
+  Passionné par le développement web et la data 
 </p>
 
 ---

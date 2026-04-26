@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Salut, moi c'est El Asad YOUSSOUF 😊</h1>
 
 <p align="center">

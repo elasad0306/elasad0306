@@ -23,15 +23,18 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 
 
+
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 
-### Outils & Data
+### Autres technos
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
 ## 🎯 Mes objectifs
 
